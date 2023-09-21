@@ -3,3 +3,5 @@ Django
 opencv-python
 numpy
 pillow
+flake8 
+pytest
