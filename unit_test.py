@@ -1,3 +1,6 @@
+# pylint: disable=missing-module-docstring
+# pylint: disable=pointless-string-statement
+
 import skin_cancer_detection
 """
 this is a unit test for the skin_cancer_detection app
