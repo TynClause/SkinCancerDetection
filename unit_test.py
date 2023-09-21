@@ -1,7 +1,12 @@
 import skin_cancer_detection
-'''
-test import of skin_cancer_detection Django
-'''
+"""
+this is a unit test for the skin_cancer_detection app
+
+you can add more unit tests here
+"""
 def test_import():
-    '''import django app'''
+    """
+    this is the first unit test for 
+    testing the import
+    """
     assert skin_cancer_detection is not None
